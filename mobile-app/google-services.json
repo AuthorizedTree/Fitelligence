@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "22231007026",
+    "project_id": "athletic-fitness-f70a0",
+    "storage_bucket": "athletic-fitness-f70a0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22231007026:android:bca32951dab1d681c1a12b",
+        "android_client_info": {
+          "package_name": "com.authorizedtree.athleticfitness"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArVyfupRTgYXFUzLZjsB96lbTmhXMd-Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
