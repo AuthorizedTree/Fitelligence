@@ -27,8 +27,6 @@
       "favicon": "./assets/favicon.png"
     },
     "extra": {
-      "openaiApiKey": "your_openai_api_key_here",
-      "claudeApiKey": "your_claude_api_key_here"
     }
   }
 }

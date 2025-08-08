@@ -2,6 +2,7 @@
 
 
 google-services.json
+app.json
 
 # dependencies
 node_modules/
@@ -34,6 +35,7 @@ yarn-error.*
 *.pem
 
 # local env files
+.env
 .env*.local
 
 # typescript
